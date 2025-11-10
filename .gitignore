@@ -1,0 +1,11 @@
+# Thư mục build (có chứa file .dll, .exe...)
+x64/
+Debug/
+Release/
+
+# Các file build cụ thể
+*.dll
+*.exe
+*.obj
+*.pdb
+*.ilk
