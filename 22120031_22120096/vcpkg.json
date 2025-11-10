@@ -1,0 +1,8 @@
+{
+  "name": "sign-detection",
+  "version-string": "1.0.0",
+  "dependencies": [
+    "opencv",
+    "nlohmann-json"
+  ]
+}
