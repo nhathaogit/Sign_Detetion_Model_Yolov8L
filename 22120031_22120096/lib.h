@@ -10,6 +10,7 @@
 #include <vector>
 #include <math.h>
 #include <iomanip>
+#pragma comment(lib, "Comdlg32.lib")
 
 #include <opencv2/opencv.hpp>
 #include <opencv2/dnn.hpp>
