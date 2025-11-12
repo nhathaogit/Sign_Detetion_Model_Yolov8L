@@ -18,7 +18,7 @@ Dự án này sử dụng **NuGet Package Restore** để tự động cài đ�
     cd <ten-thu-muc-du-an>
     ```
 
-2.  Mở tệp `.sln` (ví dụ: `Sign-Detection.sln`) bằng Visual Studio.
+2.  Mở tệp `.sln` bằng Visual Studio.
 
 3.  Chọn cấu hình build (ví dụ: **`x64`** và **Debug**).
 
